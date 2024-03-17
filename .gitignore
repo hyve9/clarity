@@ -69,3 +69,7 @@ clarity/_version.py
 
 # Sound files
 *.wav
+
+# Demo
+recipes/cad1/cadenza_data_demo/
+recipes/cad1/task1/baseline/exp_demucs/

@@ -8,6 +8,7 @@ import scipy
 import soxr
 from numpy import ndarray
 
+normalize_constant = 32768.0
 
 def clip_signal(signal: np.ndarray, soft_clip: bool = False) -> tuple[np.ndarray, int]:
     """Clip the signal.
@@ -118,6 +119,6 @@ def to_16bit(signal: np.ndarray) -> np.ndarray:
     Returns:
         signal (np.ndarray): Converted signal.
     """
-    signal = signal * 32768.0
-    signal = np.clip(signal, -32768.0, 32767.0)
+    signal = signal * normalize_constant
+    signal = np.clip(signal, -normalize_constant, (normalize_constant-1))
     return signal.astype(np.dtype("int16"))

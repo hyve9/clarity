@@ -30,7 +30,30 @@ from clarity.utils.signal_processing import (
 )
 from recipes.cad1.task1.baseline.evaluate import make_song_listener_list
 
+import librosa
+import sys
+import os
+# hacky, will want a cleaner solution in the future
+samplifi_dir = (Path.cwd().parents[3].resolve() / 'samplifi/')
+sys.path.append(str(samplifi_dir))
+breakpoint()
+import samplifi
+
+normalize_constant = 32768.0
 logger = logging.getLogger(__name__)
+samplifi_on = bool(os.getenv('SAMPLIFI')) or False
+
+
+def to_32bit(signal: np.ndarray) -> np.ndarray:
+    """Convert the signal to 32 bit.
+
+    Args:
+        signal (np.ndarray): Signal to be converted.
+
+    Returns:
+        signal (np.ndarray): Converted signal.
+    """
+    return (signal / normalize_constant).astype(np.float32).T
 
 
 def separate_sources(
@@ -434,7 +457,7 @@ def enhance(config: DictConfig) -> None:
                 / song_name
                 / "mixture.wav"
             )
-            mixture_signal = (mixture_signal / 32768.0).astype(np.float32).T
+            mixture_signal = to_32bit(mixture_signal)
             assert sample_rate == config.sample_rate
 
             stems: dict[str, ndarray] = decompose_signal(
@@ -447,6 +470,38 @@ def enhance(config: DictConfig) -> None:
                 listener,
                 normalise,
             )
+
+        if samplifi_on:
+            logger.info('Running samplifi enhancement')
+            stems_harm_boosted = dict()
+            for stem in stems:
+                orig_sarr = stems[stem]
+
+                # Resample to match AUDIO_SAMPLE_RATE
+                sarr = librosa.resample(orig_sarr, orig_sr=sample_rate, target_sr=samplifi.AUDIO_SAMPLE_RATE)
+                sr = samplifi.AUDIO_SAMPLE_RATE
+
+                # Get STFT for original audio
+                sarr_stft = librosa.stft(sarr, n_fft=samplifi.window_len, hop_length=samplifi.hop_len, window=samplifi.wtype)
+                sarr_mags = np.abs(sarr_stft)
+
+                # Get midi array from input
+                marr = samplifi.transcribe(sarr, sr) # pretty midi object of instruments -> notes, bends, onsets and offsets
+
+                # 2. Get sample times and f0s from midi array
+                f0s = samplifi.get_f0s(marr, sarr_mags, sr)
+
+                # 3. Create f0 contour
+                f0_contour = samplifi.f0_contour(sarr, sarr_mags, f0s, sr)
+
+                # 4. Mix into original signal
+                f0_mix = f0_contour * samplifi.f0_weight + sarr * samplifi.original_weight
+
+                # 5. Resample to get back to original rate
+                f0_mix = librosa.resample(f0_mix, orig_sr=sr, target_sr=sample_rate)
+
+                stems_harm_boosted[stem] = f0_mix
+            stems = stems_harm_boosted
 
         # 2. Apply NAL-R prescription to each stem
         #     Baseline applies NALR prescription to each stem instead of using the
