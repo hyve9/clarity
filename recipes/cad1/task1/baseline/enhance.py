@@ -33,15 +33,16 @@ from recipes.cad1.task1.baseline.evaluate import make_song_listener_list
 import librosa
 import sys
 import os
-# hacky, will want a cleaner solution in the future
-samplifi_dir = (Path.cwd().parents[3].resolve() / 'samplifi/')
-sys.path.append(str(samplifi_dir))
-breakpoint()
-import samplifi
 
 normalize_constant = 32768.0
 logger = logging.getLogger(__name__)
 samplifi_on = bool(os.getenv('SAMPLIFI')) or False
+
+if samplifi_on:
+    # hacky, will want a cleaner solution in the future
+    samplifi_dir = (Path.cwd().parents[3].resolve() / 'samplifi/')
+    sys.path.append(str(samplifi_dir))
+    import samplifi
 
 
 def to_32bit(signal: np.ndarray) -> np.ndarray:
