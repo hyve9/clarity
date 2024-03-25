@@ -40,7 +40,8 @@ samplifi_on = bool(os.getenv('SAMPLIFI')) or False
 
 if samplifi_on:
     # hacky, will want a cleaner solution in the future
-    samplifi_dir = (Path.cwd().parents[3].resolve() / 'samplifi/')
+    # For running in the baseline dir: samplifi_dir = (Path.cwd().parents[3].resolve() / 'samplifi/')
+    samplifi_dir = (Path.cwd() / 'samplifi/')
     sys.path.append(str(samplifi_dir))
     import samplifi
 

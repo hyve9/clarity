@@ -1,0 +1,53 @@
+name: Run Samplifi on Dataset
+
+on:
+  workflow_dispatch:
+    inputs:
+      dataset:
+        description: 'Dataset to download and process'
+        required: true
+
+jobs:
+  run-samplifi:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    # Running out of disk space on git runner
+    - name: Free Disk Space (Ubuntu)
+      uses: jlumbroso/free-disk-space@main
+      with:
+        # this might remove tools that are actually needed,
+        # when set to "true" but frees about 6 GB
+        tool-cache: true
+
+    - name: Setup Miniconda
+      uses: conda-incubator/setup-miniconda@v2
+      with:
+        auto-update-conda: true
+        python-version: '3.9'  # Use Python 3.9
+
+    - name: Create and activate Conda environment
+      run: |
+        echo "source $(conda info --base)/etc/profile.d/conda.sh" >> ~/.bashrc
+        source ~/.bashrc
+        conda create --name clarity python=3.9
+        conda activate clarity
+        pip install -e .
+        pip install -r samplifi_requirements.txt
+        pip install tensorflowjs --no-deps
+
+    - name: Test with Samplifi
+      timeout-minutes: 300
+      run: |
+        source $(conda info --base)/etc/profile.d/conda.sh
+        conda activate clarity
+        SAMPLIFI=1 python ./recipes/cad1/task1/baseline/enhance.py path.root=./recipes/cad1/cadenza_data/cad1/task1
+
+    - name: Upload CSV as artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: samplifi-scores
+        path: scores.csv
