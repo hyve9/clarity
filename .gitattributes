@@ -1,1 +1,2 @@
 clarity/_version.py export-subst
+recipes/cad1/cadenza_data filter=lfs diff=lfs merge=lfs -text

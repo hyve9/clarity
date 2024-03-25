@@ -1,0 +1,6 @@
+f8689ff4ab72ee1b47994a28e6bdde52  ./cadenza_data/cad1/task1/metadata/listeners.valid.json
+a2f0b6a0f27a9a45c66132ed3c35f3fa  ./cadenza_data/cad1/task1/metadata/musdb18.test.json
+616ce0d20d4a8870faebec2593b39394  ./cadenza_data/cad1/task1/metadata/musdb18.train.json
+af5eb97dd4e2384778cbae3d58cded8c  ./cadenza_data/cad1/task1/metadata/musdb18.valid.json
+6d87eb8e203445d8e2be1adedca00cdf  ./cadenza_data/cad1/task1/metadata/listeners.train.json
+d07c2ca6e13e3b4038bd9985950010ab  ./cadenza_data/cad1/task1/manifest/cadenza_cad1_task1_core_metadata.v1.0.md5sum

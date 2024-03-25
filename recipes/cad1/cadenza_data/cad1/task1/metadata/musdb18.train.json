@@ -1,0 +1,604 @@
+[
+  {
+    "Track Name":"A Classic Education - NightOwl",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Actions - Devil's Words",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Actions - South Of The Water",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Aimee Norwich - Child",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Alexander Ross - Velvet Curtain",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Angela Thomas Wade - Milk Cow Blues",
+    "Genre":"Country",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"ANiMAL - Clinic A",
+    "Genre":"Rap",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"ANiMAL - Easy Tiger",
+    "Genre":"Rap",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Atlantis Bound - It Was My Fault For Waiting",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Auctioneer - Our Future Faces",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"AvaLuna - Waterduct",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"BigTroubles - Phantom",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Bill Chudziak - Children Of No-one",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Black Bloc - If You Want Success",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Celestial Shore - Die For Us",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Chris Durban - Celebrate",
+    "Genre":"Electronic",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Clara Berry And Wooldog - Air Traffic",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Clara Berry And Wooldog - Stella",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Cnoc An Tursa - Bannockburn",
+    "Genre":"Heavy Metal",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Creepoid - OldTree",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Dark Ride - Burning Bridges",
+    "Genre":"Heavy Metal",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Dreamers Of The Ghetto - Heavy Love",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Drumtracks - Ghost Bitch",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Faces On Film - Waiting For Ga",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Fergessen - Back From The Start",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Fergessen - The Wind",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Flags - 54",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Giselle - Moss",
+    "Genre":"Electronic",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Grants - PunchDrunk",
+    "Genre":"Rap",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Helado Negro - Mitad Del Mundo",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Hezekiah Jones - Borrowed Heart",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Hollow Ground - Left Blind",
+    "Genre":"Heavy Metal",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Hop Along - Sister Cities",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Invisible Familiars - Disturbing Wildlife",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"James May - All Souls Moon",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"James May - Dont Let Go",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"James May - If You Say",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Jay Menon - Through My Eyes",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Johnny Lokke - Whisper To A Scream",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Jokers, Jacks & Kings - Sea Of Leaves",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Leaf - Come Around",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Leaf - Wicked",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Lushlife - Toynbee Suite",
+    "Genre":"Rap",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Matthew Entwistle - Dont You Ever",
+    "Genre":"Jazz",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Meaxic - You Listen",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - 80s Rock",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Beatles",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Britpop",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Country1",
+    "Genre":"Country",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Country2",
+    "Genre":"Country",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Disco",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Gospel",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Grunge",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Hendrix",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Punk",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Reggae",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Rock",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Music Delta - Rockabilly",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Night Panther - Fire",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"North To Alaska - All The Same",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Patrick Talbot - Set Me Free",
+    "Genre":"Jazz",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Phre The Eon - Everybody's Falling Apart",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Port St Willow - Stay Even",
+    "Genre":"Singer\/Songwriter",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Remember December - C U Next Time",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Secret Mountains - High Horse",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Skelpolu - Together Alone",
+    "Genre":"Electronic",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Snowmine - Curfews",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Spike Mullings - Mike's Sulking",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"St Vitus - Word Gets Around",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Steven Clark - Bounty",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Strand Of Oaks - Spacestation",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Sweet Lights - You Let Me Down",
+    "Genre":"Pop",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Swinging Steaks - Lost My Way",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"The Districts - Vermont",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"The Long Wait - Back Home To Blue",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"The Scarlet Brand - Les Fleurs Du Mal",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"The So So Glos - Emergency",
+    "Genre":"Rock",
+    "Source":"MedleyDB",
+    "License":"CC BY-NC-SA",
+    "Split":"train"
+  },
+  {
+    "Track Name":"The Wrong'Uns - Rothko",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Tim Taler - Stalker",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Titanium - Haunted Age",
+    "Genre":"Heavy Metal",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Traffic Experiment - Once More (With Feeling)",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Triviul - Dorothy",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Voelund - Comfort Lives In Belief",
+    "Genre":"Pop\/Rock",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Wall Of Death - Femme",
+    "Genre":"Heavy Metal",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Young Griffo - Blood To Bone",
+    "Genre":"Heavy Metal",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  },
+  {
+    "Track Name":"Young Griffo - Facade",
+    "Genre":"Heavy Metal",
+    "Source":"DSD",
+    "License":"Restricted",
+    "Split":"train"
+  }
+]

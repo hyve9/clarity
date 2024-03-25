@@ -1,0 +1,753 @@
+c52b2c613a8f1c7222a7e7f463b89856  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Goodbye Bolero/mixture.wav
+efa9d91f82f49ec5f56f64a17a7b4026  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Goodbye Bolero/vocals.wav
+fc3d02c44aa463697be204af533695fa  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Goodbye Bolero/drums.wav
+41ed0567310fd1e414793bb660157104  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Goodbye Bolero/other.wav
+3d9db27e7c71baa449b6447a1948b9f9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Goodbye Bolero/bass.wav
+f43ca2b661c19fa1744f3b2ea06b483d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Phre The Eon - Everybody's Falling Apart/mixture.wav
+12e433f77532f93720eeb96772884994  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Phre The Eon - Everybody's Falling Apart/vocals.wav
+519fe1b88f480e4977fc038bec234989  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Phre The Eon - Everybody's Falling Apart/drums.wav
+fdbdbc3c125186fec10c43574e380beb  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Phre The Eon - Everybody's Falling Apart/other.wav
+97957dd36171c2d302fb588cb7992386  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Phre The Eon - Everybody's Falling Apart/bass.wav
+f4025da0cb641a9cf2da7f6e57d34938  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Reggae/mixture.wav
+a8ba338218096fac6db3af7b994e6e44  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Reggae/vocals.wav
+091209ddc6d8e5cd13aca3a560d4aa31  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Reggae/drums.wav
+337f3c1b314a11f5dc6a468ade4ea5c5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Reggae/other.wav
+d8195e3a0c6ce956ec34cc001d95c3d5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Reggae/bass.wav
+afbc99e4cb1f0b16d76ab6627fde553b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jay Menon - Through My Eyes/mixture.wav
+97ed6877e0e3f3b233b58a59487b9680  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jay Menon - Through My Eyes/vocals.wav
+4f3a0d55dfa9b194b5d8f3ca1128ac6b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jay Menon - Through My Eyes/drums.wav
+946a91e0eaf1f194521825051e7f53d4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jay Menon - Through My Eyes/other.wav
+c07546f0bf2728fd3d1aa971a2103fc8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jay Menon - Through My Eyes/bass.wav
+e6fbbec4d40394f7cb733147383807d5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Wrong'Uns - Rothko/mixture.wav
+7366707e4100317dd7f41997fb204f79  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Wrong'Uns - Rothko/vocals.wav
+f8d448f28a65f6e0d030b49ccced8270  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Wrong'Uns - Rothko/drums.wav
+1a35d55efe10ba1d2382b900f9b054d6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Wrong'Uns - Rothko/other.wav
+4d77b4bd6b13d20931ccd8eb2984401e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Wrong'Uns - Rothko/bass.wav
+186129c2978204e218c9947338dd9f84  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Flags - 54/mixture.wav
+345a02be03dfd67c02541a4144d0ecd8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Flags - 54/vocals.wav
+f211ad0cb7e202eca510f063ee6db875  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Flags - 54/drums.wav
+4e51e6728186e49a539ebd8797bde14f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Flags - 54/other.wav
+67e1f060db8677298921d0df4361c2c7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Flags - 54/bass.wav
+9cb3a103f94ea65c187683a8e9ee70d8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Wall Of Death - Femme/mixture.wav
+13f0121167282edf234014c6a4056426  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Wall Of Death - Femme/vocals.wav
+ba18888b5078b715fefcd2622852d32e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Wall Of Death - Femme/drums.wav
+754fa854aaa201336fde988635683e79  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Wall Of Death - Femme/other.wav
+4faa9b8d3466402126baada8041005ed  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Wall Of Death - Femme/bass.wav
+16c0a9b21ecf89d06d54c8408aadf5ee  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Cnoc An Tursa - Bannockburn/mixture.wav
+3027af88aa3c5b336d9eb1965d5d5f0d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Cnoc An Tursa - Bannockburn/vocals.wav
+dc8790627f646b2a8f1e69c6634b164f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Cnoc An Tursa - Bannockburn/drums.wav
+3fe4ebff95c1bf895b4501d7c68ea085  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Cnoc An Tursa - Bannockburn/other.wav
+d296092bb571e744038dcf016181483e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Cnoc An Tursa - Bannockburn/bass.wav
+f04e92a3072b6624b555044939ba355b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Swinging Steaks - Lost My Way/mixture.wav
+41fbe8051a43bb5e9556fb229842fb18  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Swinging Steaks - Lost My Way/vocals.wav
+c6bfb8f5c03e5055181433f96bf4aa40  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Swinging Steaks - Lost My Way/drums.wav
+d7500a2bfed5acd2fe4e9c3cf14c006f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Swinging Steaks - Lost My Way/other.wav
+add225b57141a1f0800902d08741321b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Swinging Steaks - Lost My Way/bass.wav
+011cc3a49a1c7eba07644f2ef214a870  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Gospel/mixture.wav
+b4e836725cbd8631c8aeb93ed8fb0f47  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Gospel/vocals.wav
+4c2792c94cf2a17059938a185bd0443e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Gospel/drums.wav
+8721da7ee05591af40c6a27522c139b4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Gospel/other.wav
+35f04e352220741715bc923def8e6ba1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Gospel/bass.wav
+0fe4a86c7223f574196fdf080e501c3c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Easy Tiger/mixture.wav
+7c7fb52d09154b2f126c73530a5b45ac  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Easy Tiger/vocals.wav
+9641233ebc74d314cafe74c6b5918d37  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Easy Tiger/drums.wav
+5f8c494340a7a81d87184eaf33fcb87b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Easy Tiger/other.wav
+5fdd49aef20cd1855f669314bca1a048  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Easy Tiger/bass.wav
+73c1cd72b74156b444a515b604aca9b2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - One Minute Smile/mixture.wav
+1b4e0e5926b4af02965f98db0bf7f75b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - One Minute Smile/vocals.wav
+753e260c79ca70227f745fcd30281c8d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - One Minute Smile/drums.wav
+29e70dfe60c56ca8a93f0e9d3c27c4c8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - One Minute Smile/other.wav
+11adb70edd4aabf7012398b603f2d0f5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - One Minute Smile/bass.wav
+f7a3a2d6c89fbee7b0c8a9350ff45645  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Whisper To A Scream/mixture.wav
+04b58fa1d95fe616b6b4f6da68fb4221  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Whisper To A Scream/vocals.wav
+acd47c9959e62dff2bdf2e70023d8cd4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Whisper To A Scream/drums.wav
+5e0feee4eec2d14db48fff7f6b85cc60  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Whisper To A Scream/other.wav
+22180200db68e36225bc9b0ea8156e29  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Whisper To A Scream/bass.wav
+b3d3d4320045e3e9255726d9e4dbaf3c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dreamers Of The Ghetto - Heavy Love/mixture.wav
+5bf1cef30d28e69a5cfd9d9cb96329b5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dreamers Of The Ghetto - Heavy Love/vocals.wav
+53af566987cefea948d12c45cb8ca9f5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dreamers Of The Ghetto - Heavy Love/drums.wav
+3500816563bf30ea2ab2cc78b572105a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dreamers Of The Ghetto - Heavy Love/other.wav
+944049932b88d713dba6449424c2672c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dreamers Of The Ghetto - Heavy Love/bass.wav
+de19d5dc9f14a3b3257220fff48d2e1f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Sirens/mixture.wav
+7f4f21cf87cce4b12dcb2bca383f4707  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Sirens/vocals.wav
+be195c621cd3b14544283fd1ad0fa933  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Sirens/drums.wav
+0e48e6acb8f98ccff628f9034f2b6392  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Sirens/other.wav
+2ebec9d6496d12000a8a61db204c458e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Sirens/bass.wav
+d85f412912ec00d10474fa6387842e2f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Summerghost/mixture.wav
+a43073b573e87d205ff0e7d56d890d84  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Summerghost/vocals.wav
+975e8705e80ae4b1f7bdfc528d73ea05  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Summerghost/drums.wav
+91e7077b148b5db8265a8dc500a4e7eb  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Summerghost/other.wav
+14d19e709f57469fb921ee04e33d5fd6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Summerghost/bass.wav
+7bb6f7fb1e90de621e312abe1244e14a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Grants - PunchDrunk/mixture.wav
+2e39c235480f65589ddbf645b44d7ec4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Grants - PunchDrunk/vocals.wav
+1adf4d73b20d0dd9a95909945768ce78  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Grants - PunchDrunk/drums.wav
+d76e2aed3042ee9576388f0c4ef65584  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Grants - PunchDrunk/other.wav
+4e8b461f042bfe8f7570119cb15a9260  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Grants - PunchDrunk/bass.wav
+7a6fb93bc47a929573e6931e2aa34e4e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/BigTroubles - Phantom/mixture.wav
+3bc84331166e56bd345b318cd3a5531d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/BigTroubles - Phantom/vocals.wav
+03de5b860d320c1878e739369428e440  ./cadenza_data/cad1/task1/audio/musdb18hq/train/BigTroubles - Phantom/drums.wav
+5a4d09d2ea30ecc4380a9e95b95181fc  ./cadenza_data/cad1/task1/audio/musdb18hq/train/BigTroubles - Phantom/other.wav
+bc609546227205013c1560bb028cac53  ./cadenza_data/cad1/task1/audio/musdb18hq/train/BigTroubles - Phantom/bass.wav
+6183a0d636cd9f5ad9215288b8f54723  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country2/mixture.wav
+8fa67e6f2db3be3d501c34bb3e5c818b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country2/vocals.wav
+23f4cbee49e27f2fec2e89711b946df3  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country2/drums.wav
+1333198a8a67a2c3ea79d364ecff3d77  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country2/other.wav
+f036eb67d7e5b185b7b77a37242ea376  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country2/bass.wav
+e4dd1569b1aa61a1d31d9da6ae9a64ca  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Angela Thomas Wade - Milk Cow Blues/mixture.wav
+8861e5926b8e4dfd649219eaf3ba820e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Angela Thomas Wade - Milk Cow Blues/vocals.wav
+d6f920c754a22b83480a400128c3736f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Angela Thomas Wade - Milk Cow Blues/drums.wav
+0447480fb860bbbfe8be9165a00c5df7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Angela Thomas Wade - Milk Cow Blues/other.wav
+2570e5f8a6b67f9cf4c744c4e2daf257  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Angela Thomas Wade - Milk Cow Blues/bass.wav
+444991a8acb0bbc80e12fa4dac4d4140  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Giselle - Moss/mixture.wav
+9a1f6ee913474f3940feed1f3cd9fab5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Giselle - Moss/vocals.wav
+c7178b80690e5ecf6faf26c18642397c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Giselle - Moss/drums.wav
+3b4dc065a2d27adc4b01b30cb226af2d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Giselle - Moss/other.wav
+daba93db9ba046606f0bd9d1048716c5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Giselle - Moss/bass.wav
+29db0216f86e69509ebb2f6f3d53ce03  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hollow Ground - Left Blind/mixture.wav
+a1dda2ae7fe6699afdc8a3d66174a32c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hollow Ground - Left Blind/vocals.wav
+022a1bb5af7fb8619c776d2e4f4fb2a2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hollow Ground - Left Blind/drums.wav
+c335228f0179296c1fdba23c6322d453  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hollow Ground - Left Blind/other.wav
+040680ff39cfb5062a1fe3c36f7abb53  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hollow Ground - Left Blind/bass.wav
+645d619db1b381195d65bbbace6ded15  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Creepoid - OldTree/mixture.wav
+246f21aba7a07251bf41f816fb21014c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Creepoid - OldTree/vocals.wav
+1376f5d016ead4884f76400d26f49b4a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Creepoid - OldTree/drums.wav
+233217fa0f8f45fcaa44217e70a9d9d9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Creepoid - OldTree/other.wav
+7aea029c7c112fc66dd67316490ddd2a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Creepoid - OldTree/bass.wav
+7a7bdb61c15813d6025e27176a5e8a2c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Matthew Entwistle - Dont You Ever/mixture.wav
+b2d0bf2456aba893bcee4a178fe51be0  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Matthew Entwistle - Dont You Ever/vocals.wav
+2d9e34d9bf188b3b0db807cf9a1c2ee8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Matthew Entwistle - Dont You Ever/drums.wav
+be05770eef658c61b48ae28a243278e3  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Matthew Entwistle - Dont You Ever/other.wav
+172d11d5fbe98d6577709866377353b2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Matthew Entwistle - Dont You Ever/bass.wav
+1cec3ca6c2adcd0c226129d3a595fef4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - Set Me Free/mixture.wav
+995c2b3cbf23483c45bf9e21d9509148  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - Set Me Free/vocals.wav
+afa64c38393f1e05dc0cce0c318b1dce  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - Set Me Free/drums.wav
+05be3fc3bafed6a54d5d0176b4565cca  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - Set Me Free/other.wav
+35a56d963a9083ab3b71436575574ff1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - Set Me Free/bass.wav
+5a73d0a3e9181f5243fa155520a335e4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Back From The Start/mixture.wav
+ea0979c2a672f1124c06733824cc474e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Back From The Start/vocals.wav
+48576c1f1c4debc8ccfd4d05f2844cc0  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Back From The Start/drums.wav
+1ae39273395dd6dba776e1676451068c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Back From The Start/other.wav
+c0b9fa9186dc7468c94be2df0a6b73a1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Back From The Start/bass.wav
+23e4292d3f9f4f69d20e41b3435958d7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/St Vitus - Word Gets Around/mixture.wav
+c2c4b2b64148bb3d4509325370f26857  ./cadenza_data/cad1/task1/audio/musdb18hq/train/St Vitus - Word Gets Around/vocals.wav
+49d449883a1a69df6d61294eebf3dd28  ./cadenza_data/cad1/task1/audio/musdb18hq/train/St Vitus - Word Gets Around/drums.wav
+639ec746504446dcdaeb75621e499e57  ./cadenza_data/cad1/task1/audio/musdb18hq/train/St Vitus - Word Gets Around/other.wav
+bd89768572baff43f73d5fbf6f785313  ./cadenza_data/cad1/task1/audio/musdb18hq/train/St Vitus - Word Gets Around/bass.wav
+6e26a689eaa45521bd36817d05acca9a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Sweet Lights - You Let Me Down/mixture.wav
+bcfdba1c5d67146e944ed2199976c205  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Sweet Lights - You Let Me Down/vocals.wav
+feb83f525fa8fb6ffa3d2f91ff5f4195  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Sweet Lights - You Let Me Down/drums.wav
+9129596d994c7d7dfcf286e7fb952c12  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Sweet Lights - You Let Me Down/other.wav
+43abcbb4af841f9f6330d53d2ec10bbe  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Sweet Lights - You Let Me Down/bass.wav
+b6a06983ef9915510742734a280d2b2f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Atlantis Bound - It Was My Fault For Waiting/mixture.wav
+48afa54ac13f97945fc718e743ceaf92  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Atlantis Bound - It Was My Fault For Waiting/vocals.wav
+f9bd73a0e97f5aab8bf87882d2f59166  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Atlantis Bound - It Was My Fault For Waiting/drums.wav
+6a42e00678d4028ed7d71613d285906f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Atlantis Bound - It Was My Fault For Waiting/other.wav
+deadb23d2c3d42cbea8a25a62da0307e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Atlantis Bound - It Was My Fault For Waiting/bass.wav
+1dd820703e4e2f1462e3634ac5e29809  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - Take A Step/mixture.wav
+2fcdc7f625a9bc9f42caea1d2ae93b32  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - Take A Step/vocals.wav
+a110a65bcde7dd664e2b1d017faf804f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - Take A Step/drums.wav
+77ba9d1450290b66b719bce20ba15874  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - Take A Step/other.wav
+04a6a0a9607658b292befd9029ed12bc  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - Take A Step/bass.wav
+b50b5be4018215316f5dc5f70ce7c316  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Port St Willow - Stay Even/mixture.wav
+6baa5a807898158bda97392e8b0b318e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Port St Willow - Stay Even/vocals.wav
+33029b0ae59cb7df63b5f533bd1fb358  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Port St Willow - Stay Even/drums.wav
+c4320143ce571e430fc12abe95880af0  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Port St Willow - Stay Even/other.wav
+210ebe3136e39c969bc42a1958a7eeda  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Port St Willow - Stay Even/bass.wav
+508e88c0a65878b5387f271883186d43  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Grunge/mixture.wav
+3ad580b5cfe2ed5cfaf5080d82c5cf7b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Grunge/vocals.wav
+2eef4c4d2bc5c0534647e47462fc1b9f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Grunge/drums.wav
+e36448b251703c96ff83c53235a26344  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Grunge/other.wav
+18bedbc41813e55d5b2b979a37ad00f6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Grunge/bass.wav
+b38dca9483b0de1ce694826b3cf2ff15  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Disco/mixture.wav
+162d743688f3ce5fb673b0e8008f1d96  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Disco/vocals.wav
+1f8db859e6d852ed186ef392058e1e37  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Disco/drums.wav
+235186e3750586c579b176a4e247197e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Disco/other.wav
+0756ac31f67762f8e060d5cb364db761  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Disco/bass.wav
+a441dc9c60d0c0b52219ebb8d3bee9d4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Wicked/mixture.wav
+75e0f594092b36efe94c33722ce335c8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Wicked/vocals.wav
+f078483d5c9c1094d3a20a6579a5ab99  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Wicked/drums.wav
+68b8375269aa51a012d7f9b90101e2fd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Wicked/other.wav
+774439a49a5df03a8d45301b9bb32e28  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Wicked/bass.wav
+8819303a66bce553c1a5ebdf356b7890  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - If You Say/mixture.wav
+8b805684df432630a1a101a15fd5da2b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - If You Say/vocals.wav
+9ff5e849f33bd320d4b1423f488c7f8a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - If You Say/drums.wav
+c154f99c65bce082b37693734d031932  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - If You Say/other.wav
+7038d570bd6c186840f8596a5ea6b9a3  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - If You Say/bass.wav
+2c37f6d09eee73d94ef7d49330096107  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Aimee Norwich - Child/mixture.wav
+97aa5cce156cc5aa450ab20930308566  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Aimee Norwich - Child/vocals.wav
+8e98c56e0e1f752feb49d2fa7c225b06  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Aimee Norwich - Child/drums.wav
+e0fdbfcffe43aaa34fa3fc868c4846d6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Aimee Norwich - Child/other.wav
+19748991a690e3aa686b7f1771f9e9d1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Aimee Norwich - Child/bass.wav
+65bfac833a1621390bbec5e2cc20bbe0  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - South Of The Water/mixture.wav
+d3e73f90690fd8b36a9695f9c91c5eac  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - South Of The Water/vocals.wav
+46a4a749601ba1773171c4138778b014  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - South Of The Water/drums.wav
+6325d89fac9737c74810b9bf35791b8d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - South Of The Water/other.wav
+25b9f82f671c5faee4df821eb1c09ad9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - South Of The Water/bass.wav
+b556f5443cac2a19209c17113709e1aa  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Voelund - Comfort Lives In Belief/mixture.wav
+502b85a5a1f71e31ffc62d7f7a59dfea  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Voelund - Comfort Lives In Belief/vocals.wav
+5234160e98f4e67aac46a9efa10440a1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Voelund - Comfort Lives In Belief/drums.wav
+c10334085114ec8793dc450a96e89abd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Voelund - Comfort Lives In Belief/other.wav
+c9b619aa762f0e2779b492e2a8b2b158  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Voelund - Comfort Lives In Belief/bass.wav
+ddcb78fd8112407f75963c1939635e4f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Tim Taler - Stalker/mixture.wav
+a97f26ff5640b1bb1c6328bbd2f54a8b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Tim Taler - Stalker/vocals.wav
+bef1137d57225894667a76625f703f53  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Tim Taler - Stalker/drums.wav
+f5f844f24b5a9c8738d835442d4f2f01  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Tim Taler - Stalker/other.wav
+92aa42005f68c593df3daa17208233b1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Tim Taler - Stalker/bass.wav
+69364d8d5f3d1f4f034598e4f9fa1d13  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Auctioneer - Our Future Faces/mixture.wav
+bff93324b970582c99e12150559f28d4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Auctioneer - Our Future Faces/vocals.wav
+8ae68baccecc417aa39af041bc23b6ed  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Auctioneer - Our Future Faces/drums.wav
+33f605b0f788835d384fee8c0ad55a83  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Auctioneer - Our Future Faces/other.wav
+3ee86807d6e4d3960800f0d57fc91c52  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Auctioneer - Our Future Faces/bass.wav
+59a5a63b0a910079f0ee223adcf66b16  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - 80s Rock/mixture.wav
+3bd9f488bc4c113bf4646408df1fc080  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - 80s Rock/vocals.wav
+421112c5ba780b613ef7cf7e3347a689  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - 80s Rock/drums.wav
+45a9f7695d5a2fb35b1170e9ab2cd13d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - 80s Rock/other.wav
+0b8715591402cbcdb9df4e2113de56a9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - 80s Rock/bass.wav
+73fccfa169447710ca6d24033c474076  ./cadenza_data/cad1/task1/audio/musdb18hq/train/A Classic Education - NightOwl/mixture.wav
+b7d54e0c8dbf6ee0f4a48728de38cf4a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/A Classic Education - NightOwl/vocals.wav
+a970d15d3c03c6991c8efca80a43f0a3  ./cadenza_data/cad1/task1/audio/musdb18hq/train/A Classic Education - NightOwl/drums.wav
+e459ed5dd7ecea25d8b2b333df67cee2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/A Classic Education - NightOwl/other.wav
+9e3aec45cee99550f3b3bd9ce89ba7b9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/A Classic Education - NightOwl/bass.wav
+a16c22a49ec0d42e99eca7d8cbb7d46e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Celestial Shore - Die For Us/mixture.wav
+8ffe16515956297988517b8db2f9b7da  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Celestial Shore - Die For Us/vocals.wav
+830038acbda2dbb7fb14ced3597497b7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Celestial Shore - Die For Us/drums.wav
+9d38d6120425c692d194b3a0685dbc0d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Celestial Shore - Die For Us/other.wav
+a39b4694fb2f2ffb4543a2d5449510a9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Celestial Shore - Die For Us/bass.wav
+7a957f9805748b741a923c692b8f0a89  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Invisible Familiars - Disturbing Wildlife/mixture.wav
+1237ff211d522c78c8572257903ca073  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Invisible Familiars - Disturbing Wildlife/vocals.wav
+db7217aa805a385be2fd7a449d09eda9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Invisible Familiars - Disturbing Wildlife/drums.wav
+816ce8617bee2c3559157c79d9afaceb  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Invisible Familiars - Disturbing Wildlife/other.wav
+3bdd9af78c8c68471fdc5f2b9fa94989  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Invisible Familiars - Disturbing Wildlife/bass.wav
+d1ceff127f39d1d98a1b7f2215c9bf31  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Clinic A/mixture.wav
+88367dbb560130319fc98d9f9269021b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Clinic A/vocals.wav
+11f6579d94c3934dcbe6e16f7560621f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Clinic A/drums.wav
+3b698eb3d38bd86bbc2fa7b55d038ba1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Clinic A/other.wav
+a10a431e9812d14a56e876b281e0153f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Clinic A/bass.wav
+4c2e3fdc08991bb2643f2018c506785b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Scarlet Brand - Les Fleurs Du Mal/mixture.wav
+d3a41ceef3accff1172f2f5178930261  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Scarlet Brand - Les Fleurs Du Mal/vocals.wav
+d1e59824d3de309dd862a50562e89033  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Scarlet Brand - Les Fleurs Du Mal/drums.wav
+9e5fd724446846f52fce4969d7d20b2f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Scarlet Brand - Les Fleurs Du Mal/other.wav
+d231912f0291f934019fb56e395bfbd6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Scarlet Brand - Les Fleurs Du Mal/bass.wav
+7a8f481c2bd6b8bc7d7f1373b5aaa242  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Facade/mixture.wav
+727d4ae682450ab098dd297a684d8c7e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Facade/vocals.wav
+957fdc2b24697eeb34b8c34b5e5940d9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Facade/drums.wav
+c2943481fd0dae5dfdee46b88c6b1338  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Facade/other.wav
+3f530222ac32b6d1cc24f201192588d1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Facade/bass.wav
+5d3dab93e8ab9604af21d95195375128  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Strand Of Oaks - Spacestation/mixture.wav
+2abbc650035344e780ea723060fa73de  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Strand Of Oaks - Spacestation/vocals.wav
+782bcaf07adcdaf1b33f427c4642ccbf  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Strand Of Oaks - Spacestation/drums.wav
+00bcf32b12dd84c38fb3c1049fdd3926  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Strand Of Oaks - Spacestation/other.wav
+3215ad4d70fac781d1985e7d133c6176  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Strand Of Oaks - Spacestation/bass.wav
+066080101b48807bd5089aec6990e435  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Faces On Film - Waiting For Ga/mixture.wav
+c324258e589a49f31f4ec99a41299db1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Faces On Film - Waiting For Ga/vocals.wav
+c45135591a321d55f5f8986b53b78657  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Faces On Film - Waiting For Ga/drums.wav
+279d93671b975e11d0d84a3c34261560  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Faces On Film - Waiting For Ga/other.wav
+a120527bedf16b75b802c0b6304780bc  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Faces On Film - Waiting For Ga/bass.wav
+4d7c8c897fd6ce28f23f4d647c024b86  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Human Mistakes/mixture.wav
+defc56d3bc29955b391130e4f82c401d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Human Mistakes/vocals.wav
+5e3815584baa89e7918f7091f7a628f6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Human Mistakes/drums.wav
+da1d58b0ce84b2200fcbac9c2c7f1a91  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Human Mistakes/other.wav
+7f1c751f6adc1c993f3f18b6370b5a32  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Human Mistakes/bass.wav
+7632596e38fb9a05a84299ee52035827  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Britpop/mixture.wav
+89fc8c6abfc0da8e4d3cf086e504dd4b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Britpop/vocals.wav
+1a78f2ae65f6b70681869444a00ab7ee  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Britpop/drums.wav
+1d88ba755c1827c92b4d1c1c7c5465f4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Britpop/other.wav
+c464ff2880d3098557d60990b52d2967  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Britpop/bass.wav
+e6bcc3ed59a064c59c905bc999bddc52  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rock/mixture.wav
+b0eb577b125e52119d1d3e683f5f8f74  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rock/vocals.wav
+16ffdcfe610ae30f9651f6b13fe40a8c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rock/drums.wav
+d44137b270da563cb8c047557565adb0  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rock/other.wav
+ddd23b0d3ef5e58853c8dd67bc1df1aa  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rock/bass.wav
+7dc721bf7ce0928b639b71b748e7435d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Bill Chudziak - Children Of No-one/mixture.wav
+5c45437e2edb9b237b7be021bbd07674  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Bill Chudziak - Children Of No-one/vocals.wav
+c0f9f9e5b09d49ac261298185341ebc7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Bill Chudziak - Children Of No-one/drums.wav
+ef42012d291bd106a364aeb511e0ddf9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Bill Chudziak - Children Of No-one/other.wav
+28d8da924522b704e38cafd3a6385bb8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Bill Chudziak - Children Of No-one/bass.wav
+2e57f93e552b9fb60f88cc879aa6e11e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Snowmine - Curfews/mixture.wav
+1d43d34dd0e8979d1ef4934a8b5590e8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Snowmine - Curfews/vocals.wav
+8c5cc20857a192a743860b96672bacc2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Snowmine - Curfews/drums.wav
+0a0311207ed3b975b332d26b660d4a49  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Snowmine - Curfews/other.wav
+307ca61cd144c3a89e198ae1730c7aa8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Snowmine - Curfews/bass.wav
+3a4401f94918b30aaf4916078447a47d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Night Panther - Fire/mixture.wav
+c000d1f0fd99a8f08bcf8521a3725ace  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Night Panther - Fire/vocals.wav
+320183542f74ab3a43f6dc9d558aed76  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Night Panther - Fire/drums.wav
+651ced76acccb8a5c10f09a8c8801159  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Night Panther - Fire/other.wav
+cf95bce909e5c9ff14de43789c95305f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Night Panther - Fire/bass.wav
+57ddbe30e77dc13c5dfba767b72774ce  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Come Around/mixture.wav
+b835870abe0187e0437d2c4d61b7ac36  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Come Around/vocals.wav
+7bb0e46de87772e7aa2f9026c99a4d47  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Come Around/drums.wav
+a00c17facabe270f53b6f7d3b1fb34eb  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Come Around/other.wav
+bdcbf06e65cc6b246cb498f0e96022ec  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Leaf - Come Around/bass.wav
+0221856439126e26d6b7c1fc7c5f33e1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Black Bloc - If You Want Success/mixture.wav
+b321302a76bd45b202a042ccc260284f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Black Bloc - If You Want Success/vocals.wav
+9ab998c974f4bbc54a66fdce89fca138  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Black Bloc - If You Want Success/drums.wav
+a4986ec74254a8db08730055c639de18  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Black Bloc - If You Want Success/other.wav
+80dda11a6a1aa30cc8c43e8c14b4dc10  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Black Bloc - If You Want Success/bass.wav
+1d2d4d930cc135fd8d38a99495bab6db  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jokers, Jacks & Kings - Sea Of Leaves/mixture.wav
+ef6b83d7256f1a594dc09ffd2be7977e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jokers, Jacks & Kings - Sea Of Leaves/vocals.wav
+0a593a52e652827c3520d786bc68a626  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jokers, Jacks & Kings - Sea Of Leaves/drums.wav
+c7c5284cf56b32e18682445bf2dc617a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jokers, Jacks & Kings - Sea Of Leaves/other.wav
+78aaaf34e9bd7741d7bad69a2dc230eb  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Jokers, Jacks & Kings - Sea Of Leaves/bass.wav
+bd959c5f5c9b7a1b209f6da53a0ad7fa  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Steven Clark - Bounty/mixture.wav
+a1859a7e1107ba25f870379011cf1577  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Steven Clark - Bounty/vocals.wav
+a9cbce194a3b946ac7efd100fe28df6f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Steven Clark - Bounty/drums.wav
+a840673661be9a6cca485fe8badb8cd2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Steven Clark - Bounty/other.wav
+c1245031b64fd7d1dbcfc587d94c8155  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Steven Clark - Bounty/bass.wav
+cb8abbf29ec7da1cac12a5d3f7f23cc5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Waltz For My Victims/mixture.wav
+b226a1983233633a30f588d5c06a82ea  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Waltz For My Victims/vocals.wav
+fc2bf5298d2ec1b35be3ba744afbc815  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Waltz For My Victims/drums.wav
+d25993c5df4e3b2f4d5fbd45ffbfd3bc  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Waltz For My Victims/other.wav
+0c66dfe94ad30f08aaee7d913f09550f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Waltz For My Victims/bass.wav
+2138c98dce475e54e518a1efc4da555e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Districts - Vermont/mixture.wav
+586d8b520bb3fd0e54571060ad4a3e25  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Districts - Vermont/vocals.wav
+451c653950f410cb35390bbe7c9cbe46  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Districts - Vermont/drums.wav
+f39f0aee654d31ee7aafca6f8114d24d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Districts - Vermont/other.wav
+abccbcc6064fbb72e6310c45d1059132  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Districts - Vermont/bass.wav
+51a3d1c10a375909841c666d85323e14  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Angelsaint/mixture.wav
+acdde3b82b01c7443c927e33075429aa  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Angelsaint/vocals.wav
+9597f63475cbb4af5763c3075f7344b3  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Angelsaint/drums.wav
+8eef26b3dd8b2639ba12bbe4e097933b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Angelsaint/other.wav
+6c53ccaeaf92cdbcdc4593db884b2790  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Angelsaint/bass.wav
+6a8dfad914af9bdc679e7e834cdc70ac  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hop Along - Sister Cities/mixture.wav
+cc49281d2aa0866057052a4d80aacc47  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hop Along - Sister Cities/vocals.wav
+1cd487eccdaffabb36873ac70bd5f363  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hop Along - Sister Cities/drums.wav
+f2efd2cf938dd22e12df98c0bb3933a1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hop Along - Sister Cities/other.wav
+02586acd4d0b8e3437869931c13ae732  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hop Along - Sister Cities/bass.wav
+4e56a3f88bb47a98e2dd6d4e55bea475  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The So So Glos - Emergency/mixture.wav
+d9abb0c25f82c909a08f68bcd52a1738  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The So So Glos - Emergency/vocals.wav
+b5533db6eccffb0961e50f8fb2ec2086  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The So So Glos - Emergency/drums.wav
+c8e4e4cb26443c937ff005eec74e1c51  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The So So Glos - Emergency/other.wav
+23a853128235c006ed4d888fce0cc2b7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The So So Glos - Emergency/bass.wav
+bcfae867fa21fd0ed995b99b68c2552b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Punk/mixture.wav
+268285a2a0a819f27ae15d1fd0e21b9a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Punk/vocals.wav
+cd37b0f38f5c5dde1a1340dd23700221  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Punk/drums.wav
+55145fdd831df8133746e60f2b571f58  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Punk/other.wav
+9882bb0d1c4904388c2dcead7fb38114  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Punk/bass.wav
+249114aa927ca99464f09beac7f1dc34  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hezekiah Jones - Borrowed Heart/mixture.wav
+660f67f59b2ca54d0c67a60e0e014d05  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hezekiah Jones - Borrowed Heart/vocals.wav
+649102fd447b0de346b107ef45fe2227  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hezekiah Jones - Borrowed Heart/drums.wav
+5d121c4555623aeb13a86675756df837  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hezekiah Jones - Borrowed Heart/other.wav
+da0069fa633ad049fbbdcb992bfe1777  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Hezekiah Jones - Borrowed Heart/bass.wav
+ab0eeb642039ec58247b80a4f4e1af2d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - Dont Let Go/mixture.wav
+faf221c5cd85e0b02996481fd919b7b2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - Dont Let Go/vocals.wav
+d18c3ba922f7d5b9df8f2e725c1067dd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - Dont Let Go/drums.wav
+ae706319f2a1b73b33e3ffa1cc9eb7fa  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - Dont Let Go/other.wav
+b544145a92df4899a3159cb738119f0c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - Dont Let Go/bass.wav
+3fa5bff5579651a9162f1ab640351ba6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Blood To Bone/mixture.wav
+329138240420634c71dd6014ec8f8fc8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Blood To Bone/vocals.wav
+319cc14cc184399b2560770eb42a5166  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Blood To Bone/drums.wav
+a957e1d2b5725b7ab53cc8db2ff34598  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Blood To Bone/other.wav
+d7291099b33a952633ee2406611f5eb6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Blood To Bone/bass.wav
+d423554cd130823910a935ca7e977d03  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Pennies/mixture.wav
+655bcb4b674f47c8844bf72ef4a29f6c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Pennies/vocals.wav
+485b577af9b88beb81b4beeb5ca9d709  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Pennies/drums.wav
+b04c31129a23bb19a8823c2bd7ba9df4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Pennies/other.wav
+52325998fb0a44a8204168134fe82dd6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Young Griffo - Pennies/bass.wav
+5771ad3e1322d6fc8158064c26af6351  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Long Wait - Back Home To Blue/mixture.wav
+4723de915f2fa6d52b0739bd7b6a1ea8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Long Wait - Back Home To Blue/vocals.wav
+26f8e7e436d0a4d1301c6ec5bbfbfb5a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Long Wait - Back Home To Blue/drums.wav
+f09651c8e0be946e746d71e80653edcc  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Long Wait - Back Home To Blue/other.wav
+7b800cdda2797cc2391c29956ffea0ba  ./cadenza_data/cad1/task1/audio/musdb18hq/train/The Long Wait - Back Home To Blue/bass.wav
+31ace347ca2aec1dba4729dc2f669ba0  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - All Souls Moon/mixture.wav
+b1f03f19b7aed664b82fb6828a985949  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - All Souls Moon/vocals.wav
+470d18e8d7be21649a67f4157cd19ac0  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - All Souls Moon/drums.wav
+baddfa659b0d4f3e5f81e707dd2fa8d1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - All Souls Moon/other.wav
+e149f56d142af155ae23dfb28ae00e2b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - All Souls Moon/bass.wav
+ae9cebfcf2b8c3865449ca871ae45c7c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Beatles/mixture.wav
+b13fad8898050e79f4628b65322c21a8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Beatles/vocals.wav
+4f06ef2f2a5b41bc9a78bb9c852e17b7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Beatles/drums.wav
+c2accfe1901db076d5ca3287740e3190  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Beatles/other.wav
+648339487e6a443ce565b473608b95e3  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Beatles/bass.wav
+a4db3468dcefc513613af619de54b1f2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Rockshow/mixture.wav
+0e6658b172d88d6857c6745f385db3d4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Rockshow/vocals.wav
+81d279985c0151da9eab4be8b8ce1f3d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Rockshow/drums.wav
+67fc50c196e1316d0fd7cd2163407530  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Rockshow/other.wav
+36059dbfe2ce3d9c60f0282a237a2526  ./cadenza_data/cad1/task1/audio/musdb18hq/train/ANiMAL - Rockshow/bass.wav
+3dff31dda1f46efc26a2bbc295ba4440  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Once More (With Feeling)/mixture.wav
+74eabbc99f322e0f78356e3ec0cca4f2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Once More (With Feeling)/vocals.wav
+c7ee69efe05b37623cdfcd57479c07d3  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Once More (With Feeling)/drums.wav
+98dec2d65416382fce9cb39d02437e68  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Once More (With Feeling)/other.wav
+d0098ea64019183d2d51e97a55fce938  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Traffic Experiment - Once More (With Feeling)/bass.wav
+302efa0f79a4998a92522fd588cf8dda  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Hendrix/mixture.wav
+9fc5072f9382c6679a6238296e104cc7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Hendrix/vocals.wav
+289ac07b73139a0c8120186603698325  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Hendrix/drums.wav
+610f522539fd7a1956ed7e9495623c8a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Hendrix/other.wav
+6858a05d1b1194a6bb7fc62c9ea18e6f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Hendrix/bass.wav
+d8bb8d53e9b8a429414f110e6ef428bb  ./cadenza_data/cad1/task1/audio/musdb18hq/train/AvaLuna - Waterduct/mixture.wav
+344cb01eefc6b1cc852986eed1120926  ./cadenza_data/cad1/task1/audio/musdb18hq/train/AvaLuna - Waterduct/vocals.wav
+0c6bc0c1e36ccb0a595f5ebacfafca10  ./cadenza_data/cad1/task1/audio/musdb18hq/train/AvaLuna - Waterduct/drums.wav
+6f5235e82b4bb33c486bb3d55bcd57b5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/AvaLuna - Waterduct/other.wav
+1a3c78ed64ca8ccd2b67f241d6a59595  ./cadenza_data/cad1/task1/audio/musdb18hq/train/AvaLuna - Waterduct/bass.wav
+93d12ba2d33e695337984b9ff3bdb00b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country1/mixture.wav
+151702a860ff286aceb0c7a6fd3f4947  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country1/vocals.wav
+746f54e82f7a38fb52993d3ae90e60cd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country1/drums.wav
+7c7db01434121e090754d76164431291  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country1/other.wav
+1ce628d0811bfab2101a02744f4ba64e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Country1/bass.wav
+43589c2fcb50aef8d6d52a7318fb7a75  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dark Ride - Burning Bridges/mixture.wav
+77f50a592decf8c9fe91b2587ce49d02  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dark Ride - Burning Bridges/vocals.wav
+30b600a1a5446e5b4fd97966b680942d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dark Ride - Burning Bridges/drums.wav
+971bc72d9db1932f34af9dda4a0d9c82  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dark Ride - Burning Bridges/other.wav
+fdc95ab1f1131fa16af026b037669963  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Dark Ride - Burning Bridges/bass.wav
+5b3e4e578905bc50ae4f99b4ba1447e3  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Titanium - Haunted Age/mixture.wav
+47653cc4741715045cabe7123faae47f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Titanium - Haunted Age/vocals.wav
+7c45f2f0209f566e5718454aa3c33e32  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Titanium - Haunted Age/drums.wav
+7e18aeb11f27bf49b07c1681e486a101  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Titanium - Haunted Age/other.wav
+a79cbc3af04fa0ea8f0fed8ab897a0e2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Titanium - Haunted Age/bass.wav
+d97dac389c0eb2bf0a0b20b6cfa8853a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Chris Durban - Celebrate/mixture.wav
+d65f9a7342545910412588fbafcafda6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Chris Durban - Celebrate/vocals.wav
+451cc516c54acb557d8874cda8a77563  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Chris Durban - Celebrate/drums.wav
+15595a19fde9aeed5c8db39822357788  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Chris Durban - Celebrate/other.wav
+34a84ca04be3da84e5d904244dc1a189  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Chris Durban - Celebrate/bass.wav
+3f5c8c0c3faaac76148f35b06a73dc7a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Stella/mixture.wav
+6034a1cf7b90c0236f82a270bcf06589  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Stella/vocals.wav
+94cc512c3448e1cfcd52283a430ec2ed  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Stella/drums.wav
+490032a500ba4670fcbeadf6b37686bd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Stella/other.wav
+44bd0a5d81da9fcbe284de6345e199f6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Stella/bass.wav
+582f7dcda34e85e5c4cdd5bdac87914f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - A Reason To Leave/mixture.wav
+e45feea83edbf62ce18787eed615dd61  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - A Reason To Leave/vocals.wav
+596cf61f12dbfd967955fb8669c990ab  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - A Reason To Leave/drums.wav
+1290eaa591fd2be4d9d56839ce506232  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - A Reason To Leave/other.wav
+d5d37df95213923c9f93e4ae5860b07c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Patrick Talbot - A Reason To Leave/bass.wav
+459fae764791cdecc748642c2488ebd7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - You Listen/mixture.wav
+424a85d25820e9131722ac14153767f7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - You Listen/vocals.wav
+fcece83bda912020e13fd422a72a0fb2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - You Listen/drums.wav
+72bd1144f808f4e9e66f4455c0c0c766  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - You Listen/other.wav
+a134f8f44503e18a543100fbc96d52b6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Meaxic - You Listen/bass.wav
+d36a5966411e9c716d7c4341148d6b7f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Dorothy/mixture.wav
+b899ea403a608c8b49d1277c8bcc4713  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Dorothy/vocals.wav
+7c36e505765da53bcbb396d8802f68c8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Dorothy/drums.wav
+40ca39e2f1aabb76f2f0656be1ad5c2f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Dorothy/other.wav
+78ded9aca23d97bef28d67428c129fae  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Triviul - Dorothy/bass.wav
+0d7636ce0562609f0d9866ee8061b333  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Secret Mountains - High Horse/mixture.wav
+b1dfaded004c45039290443258d9b3c1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Secret Mountains - High Horse/vocals.wav
+7312346a11b05014d152470d75c8eb3d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Secret Mountains - High Horse/drums.wav
+71e511315a8f1f7af9d1ab660f9b0eea  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Secret Mountains - High Horse/other.wav
+3c938a7f9c9c8aefa089060af6c2a1a9  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Secret Mountains - High Horse/bass.wav
+832a1cd085021233aff03bba2b223542  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Promises & Lies/mixture.wav
+cb6f7b58adb66e728701650c6037ff12  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Promises & Lies/vocals.wav
+e8000698cf393ff73c52457072610da5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Promises & Lies/drums.wav
+c73528a9ac624cc44350292fb2ec02f4  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Promises & Lies/other.wav
+2313901dc163b752cb957e9a867c1dfd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Johnny Lokke - Promises & Lies/bass.wav
+ecf94ed390e2bba4bbe05ec0a2d568ad  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Remember December - C U Next Time/mixture.wav
+86b52d0153f3a46e7c49cc59bcc6a427  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Remember December - C U Next Time/vocals.wav
+b677671852e9410ce7eb7c7ded55320e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Remember December - C U Next Time/drums.wav
+921ddbe2b5ee01584b18889c64b32aca  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Remember December - C U Next Time/other.wav
+ff43090abee429c153769754548cb6db  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Remember December - C U Next Time/bass.wav
+051a0ba565cef80cee34af2bf34a763d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/North To Alaska - All The Same/mixture.wav
+f10a0b6e4855a96168442b626dce27bc  ./cadenza_data/cad1/task1/audio/musdb18hq/train/North To Alaska - All The Same/vocals.wav
+4226c12cbb79879dd829d286c72e5178  ./cadenza_data/cad1/task1/audio/musdb18hq/train/North To Alaska - All The Same/drums.wav
+b77066966917deb2fb638a73215290b6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/North To Alaska - All The Same/other.wav
+8277ff869be78da6e2812043c09144fd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/North To Alaska - All The Same/bass.wav
+69b002d92b2c6f47d705ac95b3755945  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Helado Negro - Mitad Del Mundo/mixture.wav
+a8408de28ad0bfc7ac9f3470b8292c88  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Helado Negro - Mitad Del Mundo/vocals.wav
+bff54c7a404b556b4e92af44df825bfc  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Helado Negro - Mitad Del Mundo/drums.wav
+e26e57e105759cae8128f368a0301a98  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Helado Negro - Mitad Del Mundo/other.wav
+a9fb5ed5cde1aa9fddbbc134f454a21c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Helado Negro - Mitad Del Mundo/bass.wav
+704dfd49bf86ed78900d7f7d3a110f3f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Drumtracks - Ghost Bitch/mixture.wav
+d40e5933e66432fc660834aa14611eea  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Drumtracks - Ghost Bitch/vocals.wav
+ee42e1bed823ff1949ff403bc186cf3c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Drumtracks - Ghost Bitch/drums.wav
+8054b2319ec9813843de2fdde2fb250b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Drumtracks - Ghost Bitch/other.wav
+ab4ec4a16d1b8741fdd117ed04d24396  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Drumtracks - Ghost Bitch/bass.wav
+109b4d867744a7450541d8a38d256288  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - The Wind/mixture.wav
+99378ac956353a9f3d2006f5da407f60  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - The Wind/vocals.wav
+066fa23dac48525367e5012bbb37c844  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - The Wind/drums.wav
+b603b37f83122b27ca3b0ef9e204907b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - The Wind/other.wav
+a04e36777a7c11e09f836fe8d1464be2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - The Wind/bass.wav
+9bd6a1ee7eeac9936518eaf6016c66c5  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rockabilly/mixture.wav
+1f2c99ee2bc50feeed309528e81ce643  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rockabilly/vocals.wav
+3e99d9e03dd890a299aeec58e0d35a8e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rockabilly/drums.wav
+6af0d4fbe7bad0f26339f348888ff1cd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rockabilly/other.wav
+b361eb0da79747aad510fbf43e5271a8  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Music Delta - Rockabilly/bass.wav
+e13b0f5230f76a010e58c1fc1103079a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Lushlife - Toynbee Suite/mixture.wav
+8900bac3d45e2b38a81988335699c6e6  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Lushlife - Toynbee Suite/vocals.wav
+d344af31cc81c587360afed297da3801  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Lushlife - Toynbee Suite/drums.wav
+993ed390e0b2bf87d0da754ae3f3ebbb  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Lushlife - Toynbee Suite/other.wav
+2302e2ffb022e6945a89dc11e9597c86  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Lushlife - Toynbee Suite/bass.wav
+7ceac983eb8b3507c931ff6710f69e08  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - On The Line/mixture.wav
+ce817f7cd8470efdbe0090b8e7fc239c  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - On The Line/vocals.wav
+2d8d83847218f2ed805449fc23c9ea69  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - On The Line/drums.wav
+7188b496bfec36d6a9f84e120ff6c58f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - On The Line/other.wav
+9e3c40b447cb56ef0403151beb8a5438  ./cadenza_data/cad1/task1/audio/musdb18hq/train/James May - On The Line/bass.wav
+ee2096f5ce090a25187e58cec26e0e3d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Nos Palpitants/mixture.wav
+ab79ca60096cce14b5fc32d6b35c2fd7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Nos Palpitants/vocals.wav
+0b8c2f4f29dd481ad11a17cba35492fd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Nos Palpitants/drums.wav
+803b1f6fb302bd07e2e3c1af2f75991d  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Nos Palpitants/other.wav
+8c94f747f1c724cfe7ad877ec1c492a1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Fergessen - Nos Palpitants/bass.wav
+a956507601bad7219041ff2df15d33be  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Air Traffic/mixture.wav
+453b06470f43da6f6f87db94892d6d6b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Air Traffic/vocals.wav
+af574c5f9ed8494c8e245efb4716e7af  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Air Traffic/drums.wav
+969938f70a5f49f14d817787dda2f184  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Air Traffic/other.wav
+b0850284335e30b7d47b30a3b8491ff1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Clara Berry And Wooldog - Air Traffic/bass.wav
+a4839cee736990173da341c1a357e61f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Velvet Curtain/mixture.wav
+9ce51474b56dae40f1361497094fb82a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Velvet Curtain/vocals.wav
+c73a6c272ffcb7fead8936582646812f  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Velvet Curtain/drums.wav
+7d446c1a36b533a90a8947d5403491ec  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Velvet Curtain/other.wav
+1227c9882a25613ae5a67e7b33f0ae5a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Alexander Ross - Velvet Curtain/bass.wav
+60f5346a8770b1976a0b3fd27260c0b2  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Spike Mullings - Mike's Sulking/mixture.wav
+a6228c63f8e25087d5671b1694476844  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Spike Mullings - Mike's Sulking/vocals.wav
+73615761bf7f4612bcb072dea3b31f5e  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Spike Mullings - Mike's Sulking/drums.wav
+a65082cc18b3adf0139ef9dae5cf49c0  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Spike Mullings - Mike's Sulking/other.wav
+45447aff9ddea1529c453ce102c76934  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Spike Mullings - Mike's Sulking/bass.wav
+68298d4a907a759c91bde4adc3decaf1  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Together Alone/mixture.wav
+4608cc9f4e6a61dbfda7050e052afe45  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Together Alone/vocals.wav
+81f3ef9b88cfa63d7561c469b99e93fd  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Together Alone/drums.wav
+2b115c32d4904e96df3c8e92753f740a  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Together Alone/other.wav
+1296e5dabc06f8c2ba2096031df777ca  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Skelpolu - Together Alone/bass.wav
+b62c05f352fc5f98901d1d2799e8cc1b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - Devil's Words/mixture.wav
+5fd6392bb71121213ca84241c423c168  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - Devil's Words/vocals.wav
+c31073677ba176a85f0d1364cc171cb7  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - Devil's Words/drums.wav
+b55650b987e64a371cf52a97decb346b  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - Devil's Words/other.wav
+798e62263cd8c895e491adbf7e8bfc03  ./cadenza_data/cad1/task1/audio/musdb18hq/train/Actions - Devil's Words/bass.wav
+983c8c230c10854f66c118b31a44eac9  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Buitraker - Revo X/mixture.wav
+8c2531c4afe7dbdf91b33fa42079e40d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Buitraker - Revo X/vocals.wav
+340ac4dd030502d2f54355d7653a6e77  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Buitraker - Revo X/drums.wav
+878727cf550e5b8b1232ccf3701b2039  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Buitraker - Revo X/other.wav
+f4a9bd7c54ee9080e639c61b18cae70a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Buitraker - Revo X/bass.wav
+09d43919132fffcb480b726a6873238e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Side Effects Project - Sing With Me/mixture.wav
+406c2f605e25510f5d39689c9a716163  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Side Effects Project - Sing With Me/vocals.wav
+553bdbacba389582afca0d2c3e520c97  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Side Effects Project - Sing With Me/drums.wav
+15ccce12ca80b29f0dfdd11580fa2949  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Side Effects Project - Sing With Me/other.wav
+ebc2c3aa157f2e71c19c112a39f28d06  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Side Effects Project - Sing With Me/bass.wav
+9d31d10829c22ceb8daff9f6e33cdc0a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Timboz - Pony/mixture.wav
+9cb3a5add15c65982d17ee827d32117e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Timboz - Pony/vocals.wav
+d788ea708d1b8e72a0fd68c68add257f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Timboz - Pony/drums.wav
+420fcbfbea9a41981a312b0a285e40c5  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Timboz - Pony/other.wav
+565ff2d640d0834269a8c552b699bc1d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Timboz - Pony/bass.wav
+58947f8862e24a6b2a808878517d9b61  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Nerve 9 - Pray For The Rain/mixture.wav
+926f3a8c40c5c6abbd44b19b3b3fcb8e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Nerve 9 - Pray For The Rain/vocals.wav
+91bca06bf45d0e39fa453661ef45ca28  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Nerve 9 - Pray For The Rain/drums.wav
+0501c28781d6dad83d5dfc2d7a97a4de  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Nerve 9 - Pray For The Rain/other.wav
+89389a0edec1d8f8af4eb866d7e14a05  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Nerve 9 - Pray For The Rain/bass.wav
+906cb85c50116f0ec20e84d2658cd32d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Arise - Run Run Run/mixture.wav
+4258ad4c63c60c2bfbbd5548a37231c4  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Arise - Run Run Run/vocals.wav
+7b02e250cb545157c652853c9e50934b  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Arise - Run Run Run/drums.wav
+a84f1a7e2c1f47e3eabe60a260bc1af2  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Arise - Run Run Run/other.wav
+242a2b1e5d8545115ead0a722191782c  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Arise - Run Run Run/bass.wav
+bb12969d11eef4e206c7ac4563db3b16  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Long Wait - Dark Horses/mixture.wav
+db46099a58e9235550921f43ba9d79c8  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Long Wait - Dark Horses/vocals.wav
+ce4a924263860212574a962d7fa6d603  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Long Wait - Dark Horses/drums.wav
+04662e73bfdf0133b8d888f6b5f39fc8  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Long Wait - Dark Horses/other.wav
+e720d9fbdade593813a2109b4b303c44  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Long Wait - Dark Horses/bass.wav
+757c5d5d891e1a3fc6292cfa013cc0a2  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Carlos Gonzalez - A Place For Us/mixture.wav
+ff49a41bb4cf7697378e92190af3e12e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Carlos Gonzalez - A Place For Us/vocals.wav
+780fb5d06ee409df117558a50bccef88  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Carlos Gonzalez - A Place For Us/drums.wav
+50854d40b078b3acbaf0bf882b3f8f50  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Carlos Gonzalez - A Place For Us/other.wav
+47cd28ff1364956ba81959391718155e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Carlos Gonzalez - A Place For Us/bass.wav
+275dabf192c6c02b8e303a2e4736894b  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Over The Top/mixture.wav
+2494d3657b50e2dedbf513b212a2efb1  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Over The Top/vocals.wav
+4db0862a03bccf3d28b7e4552310f985  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Over The Top/drums.wav
+525545e12d418960d8d05b6dddb8519d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Over The Top/other.wav
+faf2645979869da1de0de98834068195  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Over The Top/bass.wav
+d5b14b8a0ebdf523d1a6d45b1e1bbbd9  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Enda Reilly - Cur An Long Ag Seol/mixture.wav
+0246230ee6e6c4342cb1c5e479b58d69  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Enda Reilly - Cur An Long Ag Seol/vocals.wav
+162604da3e7574e490ef8c4f27aea441  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Enda Reilly - Cur An Long Ag Seol/drums.wav
+35ad1176639f5e08bdcd2bb385195c2f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Enda Reilly - Cur An Long Ag Seol/other.wav
+617cd566bfb906e9a325f50534218cc5  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Enda Reilly - Cur An Long Ag Seol/bass.wav
+a60c172010bd6cd352458334434e9db5  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Bulldozer/mixture.wav
+df85900099c30bfcf8a27ea7b7ba57c9  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Bulldozer/vocals.wav
+0f899645045b628465b34715ed94e61a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Bulldozer/drums.wav
+f3b8345e5899748e92908cfc434d0c12  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Bulldozer/other.wav
+6d05fe43c9d99d5f6eeb1cfd617f191f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Bulldozer/bass.wav
+322a9798c4620ec9a01ded330b69a358  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Triviul feat. The Fiend - Widow/mixture.wav
+47c1739a5da48169328c0a63a8af3011  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Triviul feat. The Fiend - Widow/vocals.wav
+b10bd3a2133a8d84c333d45d87658a98  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Triviul feat. The Fiend - Widow/drums.wav
+5538aa7474ba455b10e5c6d96851de35  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Triviul feat. The Fiend - Widow/other.wav
+3cc7f910392291ff00f33e717e92877e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Triviul feat. The Fiend - Widow/bass.wav
+b97334ea2e479a241aa1f5956425095a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Hollow Ground - Ill Fate/mixture.wav
+6b37282f00677341dd8f066d1aec2397  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Hollow Ground - Ill Fate/vocals.wav
+f5d8a0ea7b6b386cf745d0210b9a4421  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Hollow Ground - Ill Fate/drums.wav
+5dba1b9274b7c0d923cacfba924076eb  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Hollow Ground - Ill Fate/other.wav
+694c7c62aed40018e6a3ebb7a507b07c  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Hollow Ground - Ill Fate/bass.wav
+92355971491cab754636fd0652795562  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Angels In Amplifiers - I'm Alright/mixture.wav
+67fa7a3afcb1ce53b773659328eb4d53  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Angels In Amplifiers - I'm Alright/vocals.wav
+fca1123dff501c83189b6c2a7b42f1f5  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Angels In Amplifiers - I'm Alright/drums.wav
+a2300afd96c0b128de2bf8569ddb1a46  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Angels In Amplifiers - I'm Alright/other.wav
+3ad189f91f51a4d3cbedfa0ecfc673db  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Angels In Amplifiers - I'm Alright/bass.wav
+d5099010207a7120a682f56205b43529  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Louis Cressy Band - Good Time/mixture.wav
+98902fc1afb378cbb7b311c4f4cf23c0  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Louis Cressy Band - Good Time/vocals.wav
+e1652127c2d653b8adaccaed51e14704  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Louis Cressy Band - Good Time/drums.wav
+527a68160108d8f9bf44db6190110942  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Louis Cressy Band - Good Time/other.wav
+3f0cdab327322f273962a48a5bbba08b  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Louis Cressy Band - Good Time/bass.wav
+439c33f584bc7cecb69c554d4984fa56  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Al James - Schoolboy Facination/mixture.wav
+3eb4d7e47bfcc1d2b2644c9900794e37  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Al James - Schoolboy Facination/vocals.wav
+fc0354bc2680f2e9c9416aef58ac18ab  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Al James - Schoolboy Facination/drums.wav
+7a72f59e200d4569678444d7f49277b5  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Al James - Schoolboy Facination/other.wav
+66392e83e7880e30067e8d25c82056b6  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Al James - Schoolboy Facination/bass.wav
+8f90070d5889e8c985c1fb0378c6f266  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Little Chicago's Finest - My Own/mixture.wav
+de2a0670f239c6ec083207ccd190f2f5  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Little Chicago's Finest - My Own/vocals.wav
+66b79867435328e2d36796c3ceacf997  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Little Chicago's Finest - My Own/drums.wav
+31feb63f01cdcc16b5c1d4d054632bfa  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Little Chicago's Finest - My Own/other.wav
+54d6b43c5c7d2271a8e69ff2935148e2  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Little Chicago's Finest - My Own/bass.wav
+e7a9b37f92b64462f86558242b29af58  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Detsky Sad - Walkie Talkie/mixture.wav
+da4923c27a313b1241b8f569f59c50c3  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Detsky Sad - Walkie Talkie/vocals.wav
+df4cdb09dbfd7a2be032ecc529a0ea61  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Detsky Sad - Walkie Talkie/drums.wav
+60157c2ee8609d6909ab1b35193b273e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Detsky Sad - Walkie Talkie/other.wav
+a9e279dd2b935e3e0d441cf8e8fa218a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Detsky Sad - Walkie Talkie/bass.wav
+bf37b8518ef4e38276c2598b61d993b1  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Girls Under Glass - We Feel Alright/mixture.wav
+cfefcf56280e5e798af694d85c863a8b  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Girls Under Glass - We Feel Alright/vocals.wav
+a901dbb1417a6e25225f071399e7f0a3  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Girls Under Glass - We Feel Alright/drums.wav
+a216fa0b945f1c9ea1b74c687577079e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Girls Under Glass - We Feel Alright/other.wav
+b58edf3ff61dcc9ea60ba0fa44030680  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Girls Under Glass - We Feel Alright/bass.wav
+c5ffe0dcc41b608a8d3c4d4e8b99f8dd  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Punkdisco - Oral Hygiene/mixture.wav
+79224bd24ff488fd89819658854dcce9  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Punkdisco - Oral Hygiene/vocals.wav
+74e5d5ecd6d0694cf95624e762183732  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Punkdisco - Oral Hygiene/drums.wav
+fc06b348431513590a00b8039e9e3ff8  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Punkdisco - Oral Hygiene/other.wav
+74399996e2fd795172dfb649e83865b5  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Punkdisco - Oral Hygiene/bass.wav
+c376b3ba9d3c8f415ce5bebb262f469f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/We Fell From The Sky - Not You/mixture.wav
+5c72f6ba05493275e7bbe002104a4283  ./cadenza_data/cad1/task1/audio/musdb18hq/test/We Fell From The Sky - Not You/vocals.wav
+3b0587c16400c4fd74bf883571f1714e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/We Fell From The Sky - Not You/drums.wav
+ddad7a3b53381d4ae612e913f17bad76  ./cadenza_data/cad1/task1/audio/musdb18hq/test/We Fell From The Sky - Not You/other.wav
+ebf6c8cceced3528a240c561043427b8  ./cadenza_data/cad1/task1/audio/musdb18hq/test/We Fell From The Sky - Not You/bass.wav
+b2892b4bb3efe20c0bd1f94a0ee010c3  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Sambasevam Shanmugam - Kaathaadi/mixture.wav
+832b3207503cf4f76f5ebc3df838dcaf  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Sambasevam Shanmugam - Kaathaadi/vocals.wav
+315a2274041e4b071e1ea7a77773a4c9  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Sambasevam Shanmugam - Kaathaadi/drums.wav
+f944b088dbe074283ca42d363a0dd7c1  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Sambasevam Shanmugam - Kaathaadi/other.wav
+0717fe835b1efc2fa15a7a73b62d92af  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Sambasevam Shanmugam - Kaathaadi/bass.wav
+85aa4c72208431dab9b78d11bf06ff5d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Tom McKenzie - Directions/mixture.wav
+c9bcfa005bfc2b215a6de1184eccf6d8  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Tom McKenzie - Directions/vocals.wav
+522750e728baf51282125ffe0932fa77  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Tom McKenzie - Directions/drums.wav
+5c756aea3d67bc199182de9b534668bd  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Tom McKenzie - Directions/other.wav
+e161efe6960c06725f5a95eecf2fe9fd  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Tom McKenzie - Directions/bass.wav
+313a90a35e923ca1290077b8a261e543  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Happy Daze/mixture.wav
+e0a9caa85f576751ce1ce0ed40364d82  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Happy Daze/vocals.wav
+4c344ebf1ac59dc95d3ce8ee9fdf7774  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Happy Daze/drums.wav
+11ced4e90ccf89e7e6503493b76fe150  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Happy Daze/other.wav
+deda68c5918b21478bb2ecd76e55c9eb  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Happy Daze/bass.wav
+16e3472ddbd906b5257ec27fe8dbba38  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Like Horses/mixture.wav
+7845a8c2a180c6f77d684ca23111ef36  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Like Horses/vocals.wav
+f8efca1ae0203ca29fa3ff68e00c1443  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Like Horses/drums.wav
+94421473d67a76a2ec83aad8d5e554f9  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Like Horses/other.wav
+493c8ca9a3170ea25e1d84b4047dfe26  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Like Horses/bass.wav
+ba90b8586dff415ad6f612d74b5ea109  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Lyndsey Ollard - Catching Up/mixture.wav
+e311b8f1c8e3a79f74ae471ed44f81e6  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Lyndsey Ollard - Catching Up/vocals.wav
+f5347dbfecc1f360c5f909816e79f04d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Lyndsey Ollard - Catching Up/drums.wav
+f4e3d81998ea99ad95f1d19701f895d6  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Lyndsey Ollard - Catching Up/other.wav
+a5810bd305a64a93bda2f71f6e98e46f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Lyndsey Ollard - Catching Up/bass.wav
+ad5c16a6d8da54b993d20db76b3b1f03  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Raft Monk - Tiring/mixture.wav
+00dc4e0907776a6b84ec56c21cba214a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Raft Monk - Tiring/vocals.wav
+c043431b4822e91e53fa24f655d087c3  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Raft Monk - Tiring/drums.wav
+df5bce29849986f559dec794e17f2159  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Raft Monk - Tiring/other.wav
+2b36ce371e1f1ae62bb45267afe57043  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Raft Monk - Tiring/bass.wav
+9dee3bac4913cf313145984fef4e24c2  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Juliet's Rescue - Heartbeats/mixture.wav
+faab57c7a06b8e0c930428038ec42943  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Juliet's Rescue - Heartbeats/vocals.wav
+0ddcbe29fb110d736b3b7ecfdef619db  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Juliet's Rescue - Heartbeats/drums.wav
+f5f031e54ebfc417dc71a7b06dab9a2a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Juliet's Rescue - Heartbeats/other.wav
+1c2e00bc4eb31c2b6e4736988711f619  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Juliet's Rescue - Heartbeats/bass.wav
+b4775cb549459fa795ea58992e6d4cdf  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Ben Carrigan - We'll Talk About It All Tonight/mixture.wav
+fa26b54239155b36ddffa92d579e87c4  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Ben Carrigan - We'll Talk About It All Tonight/vocals.wav
+9f01ddd34f0e290276deba5cc4fffe53  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Ben Carrigan - We'll Talk About It All Tonight/drums.wav
+c1113d260993fddd88c6f40f42b3e519  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Ben Carrigan - We'll Talk About It All Tonight/other.wav
+45d1b7b9e8ac87d0b49eb99ff7f7f940  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Ben Carrigan - We'll Talk About It All Tonight/bass.wav
+39c6d6019027e23d1029dd3e998b7f2e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Sunshine Garcia Band - For I Am The Moon/mixture.wav
+cc34f61f94f7117befb23765903b06f8  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Sunshine Garcia Band - For I Am The Moon/vocals.wav
+8176587e9cc4955ef359178a402f2803  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Sunshine Garcia Band - For I Am The Moon/drums.wav
+837ceb32f8906f67ee699d3476e6f7bc  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Sunshine Garcia Band - For I Am The Moon/other.wav
+5ac081fd5063fe4a19fec9fd0f46542d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Sunshine Garcia Band - For I Am The Moon/bass.wav
+9dd4c30a58e2130d5705ab793a39d80a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Mountaineering Club - Mallory/mixture.wav
+223098700518d8cc3d8b5d0385a00884  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Mountaineering Club - Mallory/vocals.wav
+b463a76ebb4b2b4eae68f960bf6c59f6  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Mountaineering Club - Mallory/drums.wav
+83a660f6548c97b1599d364b52bda3fb  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Mountaineering Club - Mallory/other.wav
+fa9cf38c98f2968726d604579fbd2635  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Mountaineering Club - Mallory/bass.wav
+0c58a9cbc178a2a49df83c16b8dde66d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Borderline/mixture.wav
+5721ebba8cc52bab8b628d2c615b884f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Borderline/vocals.wav
+8cac5bfcb2ddf64d5d20b3828acaf70e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Borderline/drums.wav
+3d6ae30c788bc1ec50ab18b4f77f18b5  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Borderline/other.wav
+41b0f98e705ec6cfc63e90a54d59dc4f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Secretariat - Borderline/bass.wav
+6d66468e678bcb7b6d0534ee921f0bcf  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Signe Jakobsen - What Have You Done To Me/mixture.wav
+161a47a0a8d6bde912ffdf64ebad0504  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Signe Jakobsen - What Have You Done To Me/vocals.wav
+e83956be9689756e14a0d6c338a6cd1b  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Signe Jakobsen - What Have You Done To Me/drums.wav
+60dc82fcdf79290abe4348bbf183ab8f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Signe Jakobsen - What Have You Done To Me/other.wav
+9a105a12e9e22f7fe870f9b0d6629a65  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Signe Jakobsen - What Have You Done To Me/bass.wav
+baa7c2417f3bedb927170fa961a9a13e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Forkupines - Semantics/mixture.wav
+c50ea5328df1ccdf6c195483c984d87b  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Forkupines - Semantics/vocals.wav
+3e001355c69e096b8ba32d6408591322  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Forkupines - Semantics/drums.wav
+f7b3f788a44b5d0b8883972714e3f3f4  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Forkupines - Semantics/other.wav
+694471b7813403ccf51422d7cc680891  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Forkupines - Semantics/bass.wav
+8474e5cdc98c66919740892404a3192f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Broken Man/mixture.wav
+97517816cad4cd060433dc2c8f5a6996  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Broken Man/vocals.wav
+a11d53a30a4cd324bdadae0ae63dccec  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Broken Man/drums.wav
+70d90926446c6b25f9d6dea366294e75  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Broken Man/other.wav
+5abf4ea6db9cf54042a80c33fe145d33  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Speak Softly - Broken Man/bass.wav
+57353af2d3186b2d58e18a5fdc878331  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises (Baumi) - SDRNR/mixture.wav
+c4f806aa7948fd045a99ab14ccc7fd0b  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises (Baumi) - SDRNR/vocals.wav
+6d501a764598dbc19bafe347ff8d68fc  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises (Baumi) - SDRNR/drums.wav
+c59a710ac8e2248861bc60a5d5c9d023  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises (Baumi) - SDRNR/other.wav
+233c034b2f808e3c2beefae4297e09f1  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises (Baumi) - SDRNR/bass.wav
+63892583bf87348171c20c2d857a580b  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Bobby Nobody - Stitch Up/mixture.wav
+a7c6770a2d282952b8a545a392e10e5e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Bobby Nobody - Stitch Up/vocals.wav
+f2261011cc88dea4757e11bcb39efdab  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Bobby Nobody - Stitch Up/drums.wav
+ce04374449baaded51520e38f073d91e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Bobby Nobody - Stitch Up/other.wav
+9caafade640cf1e0cc83a19f5e5c524d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Bobby Nobody - Stitch Up/bass.wav
+3ae55d498db183707e21ba6811a31c00  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises - Falcon 69/mixture.wav
+f8bb21b0768322fa4de06ddae1d0a7bd  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises - Falcon 69/vocals.wav
+47e1fa5832031a0da3a3fca501af3d53  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises - Falcon 69/drums.wav
+06c00305d417af70954446e6c2d71c03  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises - Falcon 69/other.wav
+444c490f948c7a9ca00cf6e60289da1a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Easton Ellises - Falcon 69/bass.wav
+74bc26e3bea80985bc492bf5ca6ff93f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/M.E.R.C. Music - Knockout/mixture.wav
+c527e837d13fc1c90e45fa48812cefbe  ./cadenza_data/cad1/task1/audio/musdb18hq/test/M.E.R.C. Music - Knockout/vocals.wav
+8628e32e3896790ef6595fa58303ca05  ./cadenza_data/cad1/task1/audio/musdb18hq/test/M.E.R.C. Music - Knockout/drums.wav
+697f92e04dc7ab50c889621c8d06e496  ./cadenza_data/cad1/task1/audio/musdb18hq/test/M.E.R.C. Music - Knockout/other.wav
+0a7d552ea98a6de5f2964e36a0e03406  ./cadenza_data/cad1/task1/audio/musdb18hq/test/M.E.R.C. Music - Knockout/bass.wav
+d8da36274c998d78c3a72211eba04937  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Mu - Too Bright/mixture.wav
+0d33943165653d2693ab6a295c500e55  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Mu - Too Bright/vocals.wav
+bd7f88d20f7fe3405cbe5af762533b43  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Mu - Too Bright/drums.wav
+1e1427b6ec796cb470f6fff02871dd82  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Mu - Too Bright/other.wav
+de60fbdcb79cf73a61fd772b3c3d1593  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Mu - Too Bright/bass.wav
+2828a6e3687f9825520747406c3b031d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Motor Tapes - Shore/mixture.wav
+3095f97d130682b826a963970703ef9e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Motor Tapes - Shore/vocals.wav
+31379bec05a1ba361f05187984036533  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Motor Tapes - Shore/drums.wav
+abc827589f87fdad2a300d977a4b72c4  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Motor Tapes - Shore/other.wav
+090ec5f5d35e45e74773915b50252e95  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Motor Tapes - Shore/bass.wav
+44e10ede6d710cc1ca2b0386e76c373a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Cristina Vane - So Easy/mixture.wav
+d35deec41d33dfa88b1f3d0455a1c33f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Cristina Vane - So Easy/vocals.wav
+281bd55f97d94a1cd4d580363baa889a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Cristina Vane - So Easy/drums.wav
+41483618aaf5e5c8a8c9890951c2934e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Cristina Vane - So Easy/other.wav
+6fc29d58a7985dd2a6826ddee246735c  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Cristina Vane - So Easy/bass.wav
+608e1e35279a2e2119df08a0b4755070  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Oh No/mixture.wav
+f49ca347657da5d18cec8235fa324e17  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Oh No/vocals.wav
+dd4cb2e24b49396211d49b90a08ccb53  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Oh No/drums.wav
+eaf8d97243b2fd892bc3319e5421a42e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Oh No/other.wav
+7dada125b1ea2e4dfb5f66ad16357458  ./cadenza_data/cad1/task1/audio/musdb18hq/test/PR - Oh No/bass.wav
+9b2aedb3b5db7d9b0c0181950fbfd9ae  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Zeno - Signs/mixture.wav
+aa83f25de40e4e2c56ba8f94ab3bc586  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Zeno - Signs/vocals.wav
+771b1d1b7699bb4f2016aa750eb365ec  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Zeno - Signs/drums.wav
+64341daabc96726383ee931d883f5be6  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Zeno - Signs/other.wav
+43f5705479f1956453181889c2504e8c  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Zeno - Signs/bass.wav
+0d6fd540d2d800fbd7055c38584e2c9d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/James Elder & Mark M Thompson - The English Actor/mixture.wav
+e42db5067f4915d3fec7d1b00a0a9f5c  ./cadenza_data/cad1/task1/audio/musdb18hq/test/James Elder & Mark M Thompson - The English Actor/vocals.wav
+f7e6d6dc50826cc7dd36a6315e7a906f  ./cadenza_data/cad1/task1/audio/musdb18hq/test/James Elder & Mark M Thompson - The English Actor/drums.wav
+892768fd4edf57e737cc8de805aa80d6  ./cadenza_data/cad1/task1/audio/musdb18hq/test/James Elder & Mark M Thompson - The English Actor/other.wav
+3eadd2b788dd697afa9409ba74f11b86  ./cadenza_data/cad1/task1/audio/musdb18hq/test/James Elder & Mark M Thompson - The English Actor/bass.wav
+b0dc6b24e25d54d05600a16affff3555  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Skelpolu - Resurrection/mixture.wav
+e47197b0e1c297490b8c5c7f498a3c36  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Skelpolu - Resurrection/vocals.wav
+b763d256b2aa627325c67afc812f555e  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Skelpolu - Resurrection/drums.wav
+491e65ca710d913cb7b518dd143c53de  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Skelpolu - Resurrection/other.wav
+9731b921bc83cd5fee6e070eae332f64  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Skelpolu - Resurrection/bass.wav
+2b16c3e3569970a2bb5f82bd8d033eec  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Georgia Wonder - Siren/mixture.wav
+acd963fadee1aa78a5c5fbfea3de1296  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Georgia Wonder - Siren/vocals.wav
+fd49abceff02276c1f1ea5a3022ee449  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Georgia Wonder - Siren/drums.wav
+2c02f619eee1693d58f8b1a35aa7b075  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Georgia Wonder - Siren/other.wav
+5ee246b0c46b400d292f66d17c7e77b8  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Georgia Wonder - Siren/bass.wav
+5d937ffc16f43111357bfaed03884f16  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Too Much/mixture.wav
+44bf94ec88b59083e92e7fdd56c8c04a  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Too Much/vocals.wav
+18cf011e28b42ef11ebeb1bf6f09b6bc  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Too Much/drums.wav
+3b2453c73be8a44de6d368f47c7b8fee  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Too Much/other.wav
+9606fe9395286d1d4795bcf82344d80c  ./cadenza_data/cad1/task1/audio/musdb18hq/test/BKS - Too Much/bass.wav
+2943eff09f25f916942e720b60aa5e65  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Doppler Shift - Atrophy/mixture.wav
+fb546ccf5fa7fc4c991be8a731e1f417  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Doppler Shift - Atrophy/vocals.wav
+75b42ab71575cbf1ae6dbee5490ce9d3  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Doppler Shift - Atrophy/drums.wav
+5e0388ed359e6bfbd1e380ce0a09b060  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Doppler Shift - Atrophy/other.wav
+d81bae1f41bb6732ae55409e6c27722d  ./cadenza_data/cad1/task1/audio/musdb18hq/test/The Doppler Shift - Atrophy/bass.wav
+f2338bd19533a0c0a3a5ec2ef2751e0b  ./cadenza_data/cad1/task1/audio/musdb18hq/test/AM Contra - Heart Peripheral/mixture.wav
+e6f1c7caff9b043970bd41d8507a8b11  ./cadenza_data/cad1/task1/audio/musdb18hq/test/AM Contra - Heart Peripheral/vocals.wav
+33158ddf8e5a3e9d603a784173371b88  ./cadenza_data/cad1/task1/audio/musdb18hq/test/AM Contra - Heart Peripheral/drums.wav
+09fe498e1ba5c0f60d4d62ecaf186ff1  ./cadenza_data/cad1/task1/audio/musdb18hq/test/AM Contra - Heart Peripheral/other.wav
+622559cc98826936ce0324d078ac3cfd  ./cadenza_data/cad1/task1/audio/musdb18hq/test/AM Contra - Heart Peripheral/bass.wav
+a7d2f1080a7c260d06394ea785d43ac4  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Moosmusic - Big Dummy Shake/mixture.wav
+51750281c8431ca3849b92dcd913124c  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Moosmusic - Big Dummy Shake/vocals.wav
+3ae160ac04f5a8e1996569360395ac23  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Moosmusic - Big Dummy Shake/drums.wav
+1d6a7f886fa2cb5846737c9151434205  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Moosmusic - Big Dummy Shake/other.wav
+fce5420bddedf1475e46d195aa079ba5  ./cadenza_data/cad1/task1/audio/musdb18hq/test/Moosmusic - Big Dummy Shake/bass.wav
+4e84735c1f4146423f7286c520861516  ./cadenza_data/cad1/task1/audio/musdb18hq/musdb18_tracklist.csv
+095aab18aba37825463cc2e9881b2333  ./cadenza_data/cad1/task1/manifest/cadenza_cad1_task1_core_musdb18hq.v1.0.md5sum
+5e90d715174fad37b60d5ebd1588c884  ./cadenza_cad1_task1_augmentation_bach10.tar.gz
