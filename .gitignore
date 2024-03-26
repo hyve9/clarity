@@ -73,3 +73,11 @@ clarity/_version.py
 # Demo
 recipes/cad1/cadenza_data_demo/
 recipes/cad1/task1/baseline/exp_demucs/
+
+# Terraform
+terraform/
+*.tfstate
+*.tfstate.backup
+*.terraform.lock.hcl
+*.pem
+*.pem.pub

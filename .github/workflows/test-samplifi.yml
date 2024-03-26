@@ -1,4 +1,4 @@
-name: Run Samplifi on Dataset
+name: Run Clarity eval on Samplifi
 
 on:
   workflow_dispatch:

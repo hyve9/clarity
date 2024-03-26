@@ -1,4 +1,4 @@
-name: Run Samplifi on Dataset
+name: Run Clarity eval on baseline
 
 on:
   workflow_dispatch:
@@ -17,7 +17,7 @@ jobs:
       with:
         # this might remove tools that are actually needed,
         # when set to "true" but frees about 6 GB
-        tool-cache: true
+        tool-cache: truegi
 
     - name: Setup Miniconda
       uses: conda-incubator/setup-miniconda@v2
