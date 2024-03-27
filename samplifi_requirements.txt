@@ -198,7 +198,6 @@ traitlets==5.14.2
 triton==2.2.0
 typing_extensions==4.10.0
 tzdata==2024.1
-unicornafl==1.0.3
 urllib3==1.26.9
 virtualenv==20.7.2
 wcwidth==0.2.13
