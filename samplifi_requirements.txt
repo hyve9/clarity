@@ -7,7 +7,6 @@ array-record==0.5.0
 asttokens==2.4.1
 astunparse==1.6.3
 async-timeout==4.0.3
-atheris==1.0.10
 attrs==23.2.0
 audioread==2.1.9
 aws-xray-sdk==2.8.0
@@ -79,7 +78,6 @@ jsonschema-specifications==2023.12.1
 keras==2.15.0
 kiwisolver==1.4.5
 lazy_loader==0.3
-libclang==18.1.1
 librosa==0.10.1
 lightning-utilities==0.11.1
 llvmlite==0.42.0
