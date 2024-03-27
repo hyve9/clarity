@@ -30,7 +30,6 @@ from clarity.utils.signal_processing import (
 )
 from recipes.cad1.task1.baseline.evaluate import make_song_listener_list
 
-import librosa
 import sys
 import os
 
@@ -43,7 +42,7 @@ if samplifi_on:
     # For running in the baseline dir: samplifi_dir = (Path.cwd().parents[3].resolve() / 'samplifi/')
     samplifi_dir = (Path.cwd() / 'samplifi/')
     sys.path.append(str(samplifi_dir))
-    import samplifi
+    from samplifi import apply_samplifi
 
 
 def to_32bit(signal: np.ndarray) -> np.ndarray:
@@ -479,28 +478,7 @@ def enhance(config: DictConfig) -> None:
             for stem in stems:
                 orig_sarr = stems[stem]
 
-                # Resample to match AUDIO_SAMPLE_RATE
-                sarr = librosa.resample(orig_sarr, orig_sr=sample_rate, target_sr=samplifi.AUDIO_SAMPLE_RATE)
-                sr = samplifi.AUDIO_SAMPLE_RATE
-
-                # Get STFT for original audio
-                sarr_stft = librosa.stft(sarr, n_fft=samplifi.window_len, hop_length=samplifi.hop_len, window=samplifi.wtype)
-                sarr_mags = np.abs(sarr_stft)
-
-                # Get midi array from input
-                marr = samplifi.transcribe(sarr, sr) # pretty midi object of instruments -> notes, bends, onsets and offsets
-
-                # 2. Get sample times and f0s from midi array
-                f0s = samplifi.get_f0s(marr, sarr_mags, sr)
-
-                # 3. Create f0 contour
-                f0_contour = samplifi.f0_contour(sarr, sarr_mags, f0s, sr)
-
-                # 4. Mix into original signal
-                f0_mix = f0_contour * samplifi.f0_weight + sarr * samplifi.original_weight
-
-                # 5. Resample to get back to original rate
-                f0_mix = librosa.resample(f0_mix, orig_sr=sr, target_sr=sample_rate)
+                _, _, _, f0_mix, _ = apply_samplifi(orig_sarr, sample_rate)
 
                 stems_harm_boosted[stem] = f0_mix
             stems = stems_harm_boosted

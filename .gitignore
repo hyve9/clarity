@@ -71,8 +71,8 @@ clarity/_version.py
 *.wav
 
 # Demo
-recipes/cad1/cadenza_data_demo/
-recipes/cad1/task1/baseline/exp_demucs/
+cadenza_data_demo/
+exp_demucs/
 
 # Terraform
 terraform/
