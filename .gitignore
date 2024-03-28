@@ -72,6 +72,7 @@ clarity/_version.py
 
 # Demo
 cadenza_data_demo/
+cadenza_data/
 exp_demucs/
 
 # Terraform

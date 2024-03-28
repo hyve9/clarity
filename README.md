@@ -87,11 +87,18 @@ pip install -e git+https://github.com/claritychallenge/clarity.git@main
 
 ### Installing Samplifi dependencies
 
+Replace the conda create command above with `conda create --name clarity python=3.9`. Note: if you've already set up the clarity environment, using `conda install python==3.9` will update the Python version.
 Install packages:
 
 ```
 sudo apt install libasound2-dev portaudio19-dev
 pip install -r samplifi_requirements.txt
+```
+
+Init submodule:
+
+```
+git submodule update --init samplifi
 ```
 
 Run with Samplifi:
