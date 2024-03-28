@@ -85,6 +85,21 @@ Alternatively `pip` allows you to install packages from GitHub sources directly.
 pip install -e git+https://github.com/claritychallenge/clarity.git@main
 ```
 
+### Installing Samplifi dependencies
+
+Install packages:
+
+```
+sudo apt install libasound2-dev portaudio19-dev
+pip install -r samplifi_requirements.txt
+```
+
+Run with Samplifi:
+
+```
+SAMPLIFI=1 python recipes/cad1/task1/baseline/enhance.py path.root=$(pwd)/recipes/cad1/cadenza_data_demo/cad1/task1
+```
+
 ## Challenges
 
 Current challenge
