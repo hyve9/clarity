@@ -199,25 +199,45 @@ def run_calculate_aq(config: DictConfig) -> None:
     ]
 
     for song, listener_id in song_listener_pair:
-        split_dir = "train"
-        if songs_df[songs_df["Track Name"] == song]["Split"].tolist()[0] == "test":
-            split_dir = "test"
-        listener = listener_dict[listener_id]
-        combined_score, per_instrument_score = _evaluate_song_listener(
-            song=song,
-            listener=listener,
-            config=config,
-            split_dir=split_dir,
-            enhanced_folder=enhanced_folder,
-        )
-        results_file.add_result(
-            {
-                "song": song,
-                "listener": listener.id,
-                "score": combined_score,
-                **per_instrument_score,
-            }
-        )
+        try:
+            split_dir = "train"
+            if songs_df[songs_df["Track Name"] == song]["Split"].tolist()[0] == "test":
+                split_dir = "test"
+            listener = listener_dict[listener_id]
+            combined_score, per_instrument_score = _evaluate_song_listener(
+                song=song,
+                listener=listener,
+                config=config,
+                split_dir=split_dir,
+                enhanced_folder=enhanced_folder,
+            )
+            results_file.add_result(
+                {
+                    "song": song,
+                    "listener": listener.id,
+                    "score": combined_score,
+                    **per_instrument_score,
+                }
+            )
+        except IndexError as e:
+            logger.error(f"Error processing {song} for {listener_id}: {e}")
+            logger.error("Outputting dummy info for this song-listener pair")
+            results_file.add_result(
+                {
+                    "song": song,
+                    "listener": listener_id,
+                    "score": np.nan,
+                    "left_bass": np.nan,
+                    "right_bass": np.nan,
+                    "left_drums": np.nan,
+                    "right_drums": np.nan,
+                    "left_other": np.nan,
+                    "right_other": np.nan,
+                    "left_vocals": np.nan,
+                    "right_vocals": np.nan,
+                }
+            )
+            continue
 
 
 # pylint: disable = no-value-for-parameter
